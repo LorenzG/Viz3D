@@ -1,0 +1,232 @@
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.pkgdef
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.vsix
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\extension.vsixmanifest
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE100.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE80.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\stdole.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90a.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.MSXML.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE100.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE80.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90a.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.csprojResolveAssemblyReference.cache
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowControl.baml
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowControl.g.cs
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin_MarkupCompile.cache
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.g.resources
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\VSPackage.resources
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.csproj.GenerateResource.Cache
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowPackage.cto
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\VSCT.read.1.tlog
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\VSCT.write.1.tlog
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\CtoResourceMerger.cache
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\VSPackage.resources.original
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.dll
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.pdb
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.pkgdef
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.latest.pkgdef
+C:\dev\CGAL-4.9.1\LG\FirstToolWin\FirstToolWin\obj\Debug\extension.vsixmanifest
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.pkgdef
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.vsix
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\extension.vsixmanifest
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE100.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE80.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\stdole.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90a.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.MSXML.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE100.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE80.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90a.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.csprojResolveAssemblyReference.cache
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowControl.baml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowControl.g.cs
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin_MarkupCompile.cache
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.g.resources
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\VSPackage.resources
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.csproj.GenerateResource.Cache
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowPackage.cto
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\VSCT.read.1.tlog
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\VSCT.write.1.tlog
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\CtoResourceMerger.cache
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\VSPackage.resources.original
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.pdb
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.pkgdef
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.latest.pkgdef
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\obj\Debug\extension.vsixmanifest
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.pdb
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.xml
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\loren\OneDrive\Documents\Visual Studio 2015\Projects\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.pkgdef
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\FirstToolWin.vsix
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\extension.vsixmanifest
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE100.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE80.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\stdole.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90a.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.MSXML.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE100.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE80.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.pdb
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\EnvDTE90a.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowControl.baml
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowControl.g.cs
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin_MarkupCompile.cache
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.g.resources
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\VSPackage.resources
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.Utilities.Progress.resources
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.csproj.GenerateResource.Cache
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWindowPackage.cto
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\VSCT.read.1.tlog
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\VSCT.write.1.tlog
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\CtoResourceMerger.cache
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\VSPackage.resources.original
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.dll
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.pdb
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.pkgdef
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.latest.pkgdef
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\extension.vsixmanifest
+C:\Users\loren\Source\Workspaces\FirstToolWin\FirstToolWin\FirstToolWin\obj\Debug\FirstToolWin.csprojResolveAssemblyReference.cache

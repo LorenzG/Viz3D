@@ -1,0 +1,6 @@
+C:\Users\loren\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lorenzo\3D Debug Visualizer\1.0\\FirstToolWin.dll
+C:\Users\loren\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lorenzo\3D Debug Visualizer\1.0\\FirstToolWin.pdb
+C:\Users\loren\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lorenzo\3D Debug Visualizer\1.0\\HelixToolkit.dll
+C:\Users\loren\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lorenzo\3D Debug Visualizer\1.0\\HelixToolkit.Wpf.dll
+C:\Users\loren\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lorenzo\3D Debug Visualizer\1.0\\FirstToolWin.pkgdef
+C:\Users\loren\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lorenzo\3D Debug Visualizer\1.0\\extension.vsixmanifest
